@@ -1,0 +1,19 @@
+! Create for own purpose
+!! topfile.tj
+topfile.tj##div.dle_b_background
+topfile.tj##div.banner_root
+topfile.tj###banner_root
+||topfile.tj/img/tennisi/$domain=topfile.tj
+||topfile.tj/img/formula/$domain=topfile.tj
+||topfile.tj/img/pari/$domain=topfile.tj
+
+!! topvideo.tj
+topvideo.tj###bannerNode1232131asd
+topvideo.tj##.spot1
+||adv.topvideo.tj^$domain=topvideo.tj
+topvideo.tj##div.container:nth-child(12) > div.content.column-scr:nth-child(5) > div.top:first-child > div > a
+topvideo.tj###modal-android
+topvideo.tj##div[class^="sponsor"]
+
+!! mix.tj
+mix.tj###formula_index
