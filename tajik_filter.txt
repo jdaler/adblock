@@ -11,9 +11,18 @@ topfile.tj###banner_root
 topvideo.tj###bannerNode1232131asd
 topvideo.tj##.spot1
 ||adv.topvideo.tj^$domain=topvideo.tj
-topvideo.tj##div.container:nth-child(12) > div.content.column-scr:nth-child(5) > div.top:first-child > div > a
 topvideo.tj###modal-android
 topvideo.tj##div[class^="sponsor"]
 
 !! mix.tj
 mix.tj###formula_index
+mix.tj###b-div
+mix.tj###pop_up_mix
+mix.tj###formula_promoh
+mix.tj##.vast_video_loading
+mix.tj##div[id^="avp_zid_"]
+mix.tj##div[id^="somon-informer"]
+mix.tj##div[class^="banner-wrapper-"]
+mix.tj##a[href^="/engine/"][target="blank"]
+||mix.tj/preroll/
+||somon.tj^$domain=mix.tj
