@@ -1,8 +1,9 @@
-! Create for own purpose
+! Create for personal use
 !! topfile.tj
-topfile.tj##div.dle_b_background
+topfile.tj##div.dle_b_background > a[target="_blank"]
 topfile.tj##div.banner_root
-topfile.tj###banner_root
+topfile.tj##div.dle_b_knopka
+topfile.tj##div.bannerNode1232131asd
 ||topfile.tj/img/tennisi/$domain=topfile.tj
 ||topfile.tj/img/formula/$domain=topfile.tj
 ||topfile.tj/img/pari/$domain=topfile.tj
