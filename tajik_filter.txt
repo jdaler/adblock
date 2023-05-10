@@ -9,10 +9,9 @@ topfile.tj###banner_root
 
 !! topvideo.tj
 topvideo.tj###bannerNode1232131asd
-||adv.topvideo.tj^$domain=topvideo.tj
 topvideo.tj###modal-android
 topvideo.tj##div[class^="sponsor"]
-||topvideo.tj/media/banner/$domain=topvideo.tj
+||adv.topvideo.tj/storage/prerolls
 
 !! mix.tj
 mix.tj###formula_index
@@ -26,3 +25,6 @@ mix.tj##div[class^="banner-wrapper-"]
 mix.tj##a[href^="/engine/"][target="blank"]
 ||mix.tj/preroll/
 ||somon.tj^$domain=mix.tj
+
+!! alfa.tj
+alfa.tj##body > a[target="_blank"]
