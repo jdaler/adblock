@@ -12,7 +12,7 @@ topvideo.tj###bannerNode1232131asd
 ||adv.topvideo.tj^$domain=topvideo.tj
 topvideo.tj###modal-android
 topvideo.tj##div[class^="sponsor"]
-topvideo.tj###modal-android
+||topvideo.tj/media/banner/$domain=topvideo.tj
 
 !! mix.tj
 mix.tj###formula_index
