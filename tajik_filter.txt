@@ -9,7 +9,6 @@ topfile.tj###banner_root
 
 !! topvideo.tj
 topvideo.tj###bannerNode1232131asd
-topvideo.tj##.spot1
 ||adv.topvideo.tj^$domain=topvideo.tj
 topvideo.tj###modal-android
 topvideo.tj##div[class^="sponsor"]
