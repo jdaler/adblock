@@ -33,3 +33,4 @@ mix.tj##a[href^="/engine/"][target="blank"]
 
 !! alfa.tj
 alfa.tj##body > a[target="_blank"]
+alfa.tj##div[id="centerMain"] > a[href]
