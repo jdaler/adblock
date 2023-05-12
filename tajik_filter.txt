@@ -3,16 +3,20 @@
 topfile.tj##div.dle_b_background > a[target="_blank"]
 topfile.tj##div.banner_root
 topfile.tj##div.dle_b_knopka
-topfile.tj##div.bannerNode1232131asd
+!topfile.tj##[class^="dle_b_"]
+topfile.tj#$#body{ background: #000000!important; }
 ||topfile.tj/img/tennisi/$domain=topfile.tj
 ||topfile.tj/img/formula/$domain=topfile.tj
 ||topfile.tj/img/pari/$domain=topfile.tj
 
 !! topvideo.tj
-topvideo.tj###bannerNode1232131asd
-topvideo.tj###modal-android
-topvideo.tj##div[class^="sponsor"]
 ||adv.topvideo.tj/storage/prerolls
+topvideo.tj##body > a[target="_blank"]
+topvideo.tj##div.modal-android
+topvideo.tj##div.bannerNode1232131asd
+topvideo.tj##div[class="top"] > div[style] > a[target="_blank"]
+topvideo.tj##div.sponsor
+topvideo.tj##div.spot1
 
 !! mix.tj
 mix.tj###formula_index
