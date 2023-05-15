@@ -13,6 +13,14 @@ topvideo.tj##div[class="top"] > div[style] > a[target="_blank"]
 topvideo.tj##div.sponsor
 topvideo.tj##div.spot1
 
+!! alfa.tj
+alfa.tj##body > a[target="_blank"]
+alfa.tj##div[id="centerMain"] > a[href]
+
+!! portal.ttl.tj
+portal.ttl.tj##a[onclick^="yaCounter"]
+portal.ttl.tj##iframe[onclick^="yaCounter"]
+
 !! mix.tj
 mix.tj###formula_index
 mix.tj###b-div
@@ -25,7 +33,3 @@ mix.tj##div[class^="banner-wrapper-"]
 mix.tj##a[href^="/engine/"][target="blank"]
 ||mix.tj/preroll/
 ||somon.tj^$domain=mix.tj
-
-!! alfa.tj
-alfa.tj##body > a[target="_blank"]
-alfa.tj##div[id="centerMain"] > a[href]
