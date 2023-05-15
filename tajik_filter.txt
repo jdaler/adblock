@@ -8,7 +8,7 @@ topfile.tj##[class^="dle_b_"]
 ||adv.topvideo.tj/storage/prerolls
 topvideo.tj##body > a[target="_blank"]
 topvideo.tj##div.modal-android
-topvideo.tj##div.bannerNode1232131asd
+topvideo.tj##div[id^="bannerNode"]
 topvideo.tj##div[class="top"] > div[style] > a[target="_blank"]
 topvideo.tj##div.sponsor
 topvideo.tj##div.spot1
