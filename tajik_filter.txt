@@ -1,9 +1,9 @@
-! Title: AdGuard Tajik Filter
-! Description: For personal use
-! Expires: 3 days (update frequency)
+! Title: AdGuard Tajik filter Plus
+! Description: AdGuard Tajik filter. This filter is not managed by AdGuardTeam
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/jdaler/adblock
 ! Licence: https://raw.githubusercontent.com/jdaler/adblock/main/LICENSE.md
-! Version: 20230515
+!
 
 !! topfile.tj
 !Set baground black
