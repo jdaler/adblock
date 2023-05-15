@@ -1,4 +1,4 @@
 # Adguard
 
 Tajik filter at this link
-https://jdaler.github.io/adguard/tajik_filter.txt
+https://jdaler.github.io/adblock/tajik_filter.txt
