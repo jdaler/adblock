@@ -1,13 +1,8 @@
 ! Create for personal use
 !! topfile.tj
-topfile.tj##div.dle_b_background > a[target="_blank"]
-topfile.tj##div.banner_root
-topfile.tj##div.dle_b_knopka
-!topfile.tj##[class^="dle_b_"]
+!Set baground black
 topfile.tj#$#body{ background: #000000!important; }
-||topfile.tj/img/tennisi/$domain=topfile.tj
-||topfile.tj/img/formula/$domain=topfile.tj
-||topfile.tj/img/pari/$domain=topfile.tj
+topfile.tj##[class^="dle_b_"]
 
 !! topvideo.tj
 ||adv.topvideo.tj/storage/prerolls
