@@ -1,4 +1,9 @@
-! Create for personal use
+! Title: AdGuard Tajik filter
+! Expires: 3 days (update frequency)
+! Homepage: https://github.com/jdaler/adblock
+! Licence: https://raw.githubusercontent.com/jdaler/adblock/main/LICENSE.md
+! Version: 20230515
+
 !! topfile.tj
 !Set baground black
 topfile.tj#$#body{ background: #000000!important; }
