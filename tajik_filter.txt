@@ -16,9 +16,11 @@ topfile.tj##[class^="dle_b_"]
 topvideo.tj##body > a[target="_blank"]
 topvideo.tj##div[id="modal-android"]
 topvideo.tj##div[id^="bannerNode"]
-topvideo.tj##div[class="top"] > div[style] > a[target="_blank"]
+topvideo.tj##div[class="top"] > div[style] > a > img[src^="/media/banner/"]
 topvideo.tj##div.sponsor
 topvideo.tj##div.spot1
+||topvideo.tj/vastfiles/*.xml
+||topvideo.tj/static/js/videojs-preroll.js
 
 !! alfa.tj
 alfa.tj##body > a[target="_blank"]
