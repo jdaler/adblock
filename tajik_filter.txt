@@ -32,14 +32,17 @@ portal.ttl.tj##iframe[onclick^="yaCounter"]
 varzishtv.tj##div[class^="banner-wrapper-"]
 
 !! mix.tj
-mix.tj###formula_index
-mix.tj###b-div
-mix.tj###pop_up_mix
-mix.tj###formula_promoh
-mix.tj##.vast_video_loading
-mix.tj##div[id^="avp_zid_"]
-mix.tj##div[id^="somon-informer"]
-mix.tj##div[class^="banner-wrapper-"]
-mix.tj##a[href^="/engine/"][target="blank"]
-||mix.tj/preroll/
-||somon.tj^$domain=mix.tj
+! Folowing rules added to Russia filter
+! https://github.com/AdguardTeam/AdguardFilters/issues/146249
+!!
+!mix.tj###formula_index
+!mix.tj###b-div
+!mix.tj###pop_up_mix
+!mix.tj###formula_promoh
+!mix.tj##.vast_video_loading
+!mix.tj##div[id^="avp_zid_"]
+!mix.tj##div[id^="somon-informer"]
+!mix.tj##div[class^="banner-wrapper-"]
+!mix.tj##a[href^="/engine/"][target="blank"]
+!||mix.tj/preroll/
+!||somon.tj^$domain=mix.tj
