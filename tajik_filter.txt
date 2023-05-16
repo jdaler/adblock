@@ -28,6 +28,9 @@ alfa.tj##div[id="centerMain"] > a[href]
 portal.ttl.tj##a[onclick^="yaCounter"]
 portal.ttl.tj##iframe[onclick^="yaCounter"]
 
+!! varzishtv.tj
+varzishtv.tj##div[class^="banner-wrapper-"]
+
 !! mix.tj
 mix.tj###formula_index
 mix.tj###b-div
