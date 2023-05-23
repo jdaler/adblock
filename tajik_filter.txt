@@ -11,17 +11,6 @@
 topfile.tj#$#body{ background: #000000!important; }
 topfile.tj##[class^="dle_b_"]
 
-!! topvideo.tj
-||adv.topvideo.tj/storage/prerolls
-topvideo.tj##body > a[target="_blank"]
-topvideo.tj##div[id="modal-android"]
-topvideo.tj##div[id^="bannerNode"]
-topvideo.tj##div[class="top"] > div[style] > a > img[src^="/media/banner/"]
-topvideo.tj##div.sponsor
-topvideo.tj##div.spot1
-||topvideo.tj/vastfiles/*.xml
-||topvideo.tj/static/js/videojs-preroll.js
-
 !! alfa.tj
 alfa.tj##body > a[target="_blank"]
 alfa.tj##div[id="centerMain"] > a[href]
@@ -32,6 +21,9 @@ portal.ttl.tj##iframe[onclick^="yaCounter"]
 
 !! varzishtv.tj
 varzishtv.tj##div[class^="banner-wrapper-"]
+
+!! ftv.tj
+ftv.tj##div[class^="banner-wrapper-"]
 
 !! mix.tj
 ! Folowing rules added to Russia filter
@@ -48,3 +40,20 @@ varzishtv.tj##div[class^="banner-wrapper-"]
 !mix.tj##a[href^="/engine/"][target="blank"]
 !||mix.tj/preroll/
 !||somon.tj^$domain=mix.tj
+
+
+!! topvideo.tj
+! Folowing rules added to Russia filter
+! https://github.com/AdguardTeam/AdguardFilters/issues/150573
+!! 
+!||adv.topvideo.tj/storage/prerolls
+!topvideo.tj##body > a[target="_blank"]
+!topvideo.tj##div[id="modal-android"]
+!topvideo.tj##div[id^="bannerNode"]
+!topvideo.tj##div[class="top"] > div[style] > a > img[src^="/media/banner/"]
+!topvideo.tj##div.sponsor
+!topvideo.tj##div.spot1
+!||topvideo.tj/vastfiles/*.xml
+!||topvideo.tj/static/js/videojs-preroll.js
+
+
