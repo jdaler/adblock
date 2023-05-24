@@ -47,12 +47,12 @@ rezka.ag##div[class="glory"]
 
 
 !! topvideo.tj
+topvideo.tj##div[id="modal-android"]
 ! Folowing rules added to Russia filter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150573
 !! 
 !||adv.topvideo.tj/storage/prerolls
 !topvideo.tj##body > a[target="_blank"]
-!topvideo.tj##div[id="modal-android"]
 !topvideo.tj##div[id^="bannerNode"]
 !topvideo.tj##div[class="top"] > div[style] > a > img[src^="/media/banner/"]
 !topvideo.tj##div.sponsor
