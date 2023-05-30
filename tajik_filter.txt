@@ -5,29 +5,32 @@
 ! Homepage: https://github.com/jdaler/adblock
 ! Licence: https://raw.githubusercontent.com/jdaler/adblock/main/LICENSE.md
 !
-
+!
 !! topfile.tj
 !Set baground black
 topfile.tj#$#body{ background: #000000!important; }
 topfile.tj##[class^="dle_b_"]
-
+!
 !! alfa.tj
 alfa.tj##body > a[target="_blank"]
 alfa.tj##div[id="centerMain"] > a[href]
-
+!
 !! portal.ttl.tj
 portal.ttl.tj##a[onclick^="yaCounter"]
 portal.ttl.tj##iframe[onclick^="yaCounter"]
-
+!
 !! varzishtv.tj
 varzishtv.tj##div[class^="banner-wrapper-"]
-
+!
 !! ftv.tj
 ftv.tj##div[class^="banner-wrapper-"]
-
+!
 !! Rezka.ag
 rezka.ag##div[class="glory"]
-
+!
+!! ottplayer.tv
+ottplayer.tv###cookieAgreeBar
+ottplayer.tv##div.uk-cover-container
 
 !! mix.tj
 ! Folowing rules added to Russia filter
@@ -44,8 +47,7 @@ rezka.ag##div[class="glory"]
 !mix.tj##a[href^="/engine/"][target="blank"]
 !||mix.tj/preroll/
 !||somon.tj^$domain=mix.tj
-
-
+!
 !! topvideo.tj
 topvideo.tj##div[id="modal-android"]
 ! Folowing rules added to Russia filter
