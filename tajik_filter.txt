@@ -36,7 +36,8 @@ ottplayer.tv##div.uk-cover-container
 ! Folowing rules added to Russia filter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/146249
 !!
-!mix.tj###formula_index
+mix.tj###formula_index
+mix.tj##div[id="formula_index"]
 !mix.tj###b-div
 !mix.tj###pop_up_mix
 !mix.tj###formula_promoh
