@@ -1,7 +1,7 @@
 ! Title: AdGuard Tajik filter Plus
 ! Description: AdGuard Tajik filter. This filter is not managed by AdGuardTeam
 ! Expires: 1 days (update frequency)
-! Version: 1.0.4
+! Version: 1.0.5
 ! Homepage: https://github.com/jdaler/adblock
 ! Licence: https://raw.githubusercontent.com/jdaler/adblock/main/LICENSE.md
 !
@@ -51,6 +51,7 @@ mix.tj##div[id="formula_index"]
 !
 !! topvideo.tj
 topvideo.tj##div[id="modal-android"]
+topvideo.tj##div[class="table"] > div[style] > a[target="blank"] > img[src^="/media/banner/formula/"]
 ! Folowing rules added to Russia filter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150573
 !! 
