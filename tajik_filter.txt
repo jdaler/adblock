@@ -55,6 +55,7 @@ topvideo.tj##.table > div[style] > a > img[src^="/media/banner/"]
 topvideo.tj##.top > div[style] > a > img[src^="/media/catfish/"]
 topvideo.tj##.table > div > div[style] > iframe[src^="/media/banner/"]
 topvideo.tj##.table
+topvideo.tj##.back
 ! Folowing rules added to Russia filter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150573
 !! 
